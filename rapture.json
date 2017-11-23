@@ -1,0 +1,11 @@
+{
+  "homepage": "http://www.geocities.jp/knystd/rapture.html",
+  "version": "2.3.0",
+  "bin": "rapture.exe",
+  "shortcuts": [["rapture.exe", "rapture"]],
+  "url": "http://www.geocities.jp/knystd/rapture-2.3.0.zip",
+  "hash": "sha256:F248E541B0A85B650E39900DB2FAAAE40C593117850A9ACC8E961C61490C8B2A",
+  "autoupdate": {
+    "url": "http://www.geocities.jp/knystd/rapture-$version.zip"
+  }
+}
