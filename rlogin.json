@@ -1,7 +1,6 @@
 {
   "homepage": "http://nanno.dip.jp/softlib/man/rlogin/",
   "version": "2.22.9",
-  "extract_dir": "2.22.9",
   "bin": "RLogin.exe",
   "shortcuts": [["RLogin.exe", "RLogin"]],
   "checkver": {
