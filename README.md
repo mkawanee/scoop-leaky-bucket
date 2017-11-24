@@ -6,7 +6,7 @@ This is my scoop bucket.
 
 # Packages
 
-|         |                                             |
+|  Name   |                  Homepage                   |
 | :-----: | :-----------------------------------------: |
 | RLogin  |    https://kmiya-culti.github.io/RLogin/    |
 | Rapture | http://www.geocities.jp/knystd/rapture.html |
