@@ -1,19 +1,21 @@
 {
   "homepage": "http://nanno.dip.jp/softlib/man/rlogin/",
-  "version": "2.22.9",
+  "version": "2.23.2",
   "bin": "RLogin.exe",
-  "shortcuts": [["RLogin.exe", "RLogin"]],
+  "shortcuts": [
+    ["RLogin.exe", "RLogin"]
+  ],
   "checkver": {
     "github": "https://github.com/kmiya-culti/RLogin/"
   },
   "architecture": {
     "64bit": {
-      "url": "http://nanno.dip.jp/softlib/rlogin/2.22.9/rlogin_x64.zip",
-      "hash": "sha256:C3738CF4997F1B9510D71BE1EC161E53ABEFD49EFA36C2CDDC8498705DAAA285"
+      "url": "http://nanno.dip.jp/softlib/rlogin/2.23.2/rlogin_x64.zip",
+      "hash": "sha256:0B0A1D6EAA565510ADB8E5B6DFB83C284F314E4794279F99E8948141F87CB019"
     },
     "32bit": {
-      "url": "http://nanno.dip.jp/softlib/rlogin/2.22.9/rlogin_x32.zip",
-      "hash": "sha256:E4BDBA43E08F0F30BAA13B2B67504034EF9E2D3833298F4A50B17E6980550559"
+      "url": "http://nanno.dip.jp/softlib/rlogin/2.23.2/rlogin_x32.zip",
+      "hash": "sha256:490AEEE7F6ABC170CBB0EDDA40E598133FE3594F8E6DDF0A41A6F305922E49CA"
     }
   },
   "autoupdate": {
