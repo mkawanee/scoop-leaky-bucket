@@ -10,7 +10,7 @@
     },
     "32bit": {
       "url": "https://a5m2.mmatsubara.com/download/a5m2_2.15.0_x86.zip",
-      "hash": ""
+      "hash": "sha256:fe88e3e79413b1ef532022eac9cfa376b6e052d8ae727cb6615576972a303e97"
     }
   },
   "autoupdate": {
