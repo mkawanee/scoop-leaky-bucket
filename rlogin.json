@@ -10,7 +10,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "http://nanno.dip.jp/softlib/rlogin/2.23.2/rlogin_x64.zip",
+      "url": "https://github.com/kmiya-culti/RLogin/files/9933393/rlogin_x64.zip",
       "hash": "sha256:0B0A1D6EAA565510ADB8E5B6DFB83C284F314E4794279F99E8948141F87CB019"
     },
     "32bit": {
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "http://nanno.dip.jp/softlib/rlogin/$version/rlogin_x64.zip"
+        "url": "https://github.com/kmiya-culti/RLogin/files/9933393/rlogin_x64.zip"
       },
       "32bit": {
         "url": "http://nanno.dip.jp/softlib/rlogin/$version/rlogin_x32.zip"
